@@ -1,0 +1,26 @@
+{
+  "name": "service-automated-workflow",
+  "description": "automated build tools for service.uark.edu",
+  "authors": [
+    "James Washington"
+  ],
+  "license": "Do whatever you want to do with it.",
+  "keywords": [
+    "uark",
+    "service",
+    "bootstrap",
+    "arkansas"
+  ],
+  "homepage": "https://github.com/jbwashington/CCE-FIles",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
